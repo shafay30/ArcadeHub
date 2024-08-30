@@ -71,12 +71,6 @@ Image:
 
 
 Description: Navigate a bird through a series of pipes by tapping the screen to keep the bird airborne. The objective is to fly between the pipes without hitting them. The game is known for its simple yet addictive gameplay, challenging players to beat their own high scores.
-Additional Features
-User Interface: The main UI is designed with a retro theme, fea
-
-
-
-
 
 
 
@@ -90,4 +84,4 @@ ArcadeHub combines nostalgic gameplay with modern Java Swing programming, provid
 
 
 
-Occasional updates will be made to improve UI, and to add more games.
+Occasional updates will be made to improve UI and add more games.
