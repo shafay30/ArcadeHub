@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 
 public class ArcadeHub extends JFrame {
-    private static final String IMAGE_PATH = "/Users/shafay/Downloads/Java Swing Projects/Game Thumbnails/";
+    private static final String IMAGE_PATH = "ADDFILEPATHHERE";
 
     public ArcadeHub() {
         setTitle("Welcome to ArcadeHub!");
